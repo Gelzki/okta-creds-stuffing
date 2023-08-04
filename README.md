@@ -9,4 +9,5 @@ The script will perform a brute force credential stuffing based on the given use
 If performing this test for a large number of users, you may want to consider breaking the user list into smaller groups and running each group from a different source host.
 
 Note: if the script is having trouble parsing the password, surround it in single quotes (').
+
 Note: This is forked from [okta-s](https://github.com/cedowens/okta-sprayer)https://github.com/cedowens/okta-sprayer
